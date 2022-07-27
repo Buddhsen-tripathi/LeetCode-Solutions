@@ -24,7 +24,6 @@ class Solution {
         
         q = new LinkedList<>();
         preorder(root);
-        TreeNode dum = root;
         
         q.remove();
         
